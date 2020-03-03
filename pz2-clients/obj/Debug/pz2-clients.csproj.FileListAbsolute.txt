@@ -1,0 +1,7 @@
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\bin\Debug\pz2-clients.exe.config
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\bin\Debug\pz2-clients.exe
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\bin\Debug\pz2-clients.pdb
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\obj\Debug\pz2-clients.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\obj\Debug\pz2-clients.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\obj\Debug\pz2-clients.exe
+C:\Users\thene\source\repos\pz2-clients\pz2-clients\obj\Debug\pz2-clients.pdb
