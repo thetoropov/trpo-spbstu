@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client xsi:type="Investor">
+    <LastName>Sokolov</LastName>
+    <DepositOpenDate>2019-05-07T00:00:00</DepositOpenDate>
+    <DepositAmount>3500.59</DepositAmount>
+    <DepositInterest>20.1</DepositInterest>
+  </Client>
+  <Client xsi:type="Investor">
+    <LastName>Petrov</LastName>
+    <DepositOpenDate>2020-01-10T00:00:00</DepositOpenDate>
+    <DepositAmount>128.867</DepositAmount>
+    <DepositInterest>15.75</DepositInterest>
+  </Client>
+  <Client xsi:type="Creditor">
+    <LastName>Clerk</LastName>
+    <LoanIssuanceDate>2015-08-09T00:00:00</LoanIssuanceDate>
+    <LoanAmount>1178.27</LoanAmount>
+    <CreditInterest>12.35</CreditInterest>
+    <BalanceOfDebt>578.89</BalanceOfDebt>
+  </Client>
+  <Client xsi:type="Creditor">
+    <LastName>Grant</LastName>
+    <LoanIssuanceDate>2013-07-19T00:00:00</LoanIssuanceDate>
+    <LoanAmount>13278.87</LoanAmount>
+    <CreditInterest>12.75</CreditInterest>
+    <BalanceOfDebt>578.89</BalanceOfDebt>
+  </Client>
+  <Client xsi:type="Organization">
+    <Name>Organization #1</Name>
+    <AccountOpenDate>2013-02-13T00:00:00</AccountOpenDate>
+    <AccountNumber>1234567</AccountNumber>
+    <AmountOnAccount>78943.784</AmountOnAccount>
+  </Client>
+  <Client xsi:type="Organization">
+    <Name>Organization #2</Name>
+    <AccountOpenDate>2016-03-02T00:00:00</AccountOpenDate>
+    <AccountNumber>354565</AccountNumber>
+    <AmountOnAccount>78623.734</AmountOnAccount>
+  </Client>
+</ArrayOfClient>
