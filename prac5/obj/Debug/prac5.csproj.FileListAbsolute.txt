@@ -1,0 +1,7 @@
+C:\Users\thene\source\repos\prac5\prac5\bin\Debug\prac5.exe.config
+C:\Users\thene\source\repos\prac5\prac5\bin\Debug\prac5.exe
+C:\Users\thene\source\repos\prac5\prac5\bin\Debug\prac5.pdb
+C:\Users\thene\source\repos\prac5\prac5\obj\Debug\prac5.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\prac5\prac5\obj\Debug\prac5.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\prac5\prac5\obj\Debug\prac5.exe
+C:\Users\thene\source\repos\prac5\prac5\obj\Debug\prac5.pdb
