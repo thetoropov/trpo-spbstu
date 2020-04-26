@@ -1,0 +1,10 @@
+C:\Users\thene\source\repos\pz7\pz7\bin\Debug\pz7.exe.config
+C:\Users\thene\source\repos\pz7\pz7\bin\Debug\pz7.exe
+C:\Users\thene\source\repos\pz7\pz7\bin\Debug\pz7.pdb
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.Form1.resources
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.Properties.Resources.resources
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.csproj.GenerateResource.cache
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.exe
+C:\Users\thene\source\repos\pz7\pz7\obj\Debug\pz7.pdb
