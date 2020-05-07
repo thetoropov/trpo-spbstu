@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BankCollection>
+  <Account>
+    <IdAccount>0</IdAccount>
+    <IdCode>0</IdCode>
+    <LastName>Заплатин</LastName>
+    <Amount>100</Amount>
+    <Data>19.03.2020</Data>
+    <Percent>30</Percent>
+  </Account>
+  <Account>
+    <IdAccount>1</IdAccount>
+    <IdCode>1</IdCode>
+    <LastName>Канева</LastName>
+    <Amount>200</Amount>
+    <Data>12.03.2020</Data>
+    <Percent>40</Percent>
+  </Account>
+  <Account>
+    <IdAccount>2</IdAccount>
+    <IdCode>2</IdCode>
+    <LastName>Сухомлинов</LastName>
+    <Amount>300</Amount>
+    <Data>10.03.2020</Data>
+    <Percent>50</Percent>
+  </Account>
+</BankCollection>

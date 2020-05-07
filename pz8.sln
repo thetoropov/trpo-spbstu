@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz8", "pz8\pz8.csproj", "{6517431B-2A0E-4865-A8AE-3F649109B7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FDB42F0D-4BA9-4076-A516-4652393C7BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6517431B-2A0E-4865-A8AE-3F649109B7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6517431B-2A0E-4865-A8AE-3F649109B7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6517431B-2A0E-4865-A8AE-3F649109B7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6517431B-2A0E-4865-A8AE-3F649109B7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB42F0D-4BA9-4076-A516-4652393C7BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB42F0D-4BA9-4076-A516-4652393C7BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB42F0D-4BA9-4076-A516-4652393C7BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB42F0D-4BA9-4076-A516-4652393C7BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE28A47-6682-42A1-9A7D-52BD20380A07}
+	EndGlobalSection
+EndGlobal

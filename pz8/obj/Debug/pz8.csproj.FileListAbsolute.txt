@@ -1,0 +1,12 @@
+C:\Users\thene\source\repos\pz8\pz8\bin\Debug\pz8.exe.config
+C:\Users\thene\source\repos\pz8\pz8\bin\Debug\pz8.exe
+C:\Users\thene\source\repos\pz8\pz8\bin\Debug\pz8.pdb
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.Form1.resources
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.Properties.Resources.resources
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.csproj.GenerateResource.cache
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.exe
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.pdb
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.AddForm.resources
+C:\Users\thene\source\repos\pz8\pz8\obj\Debug\pz8.DeleteForm.resources
