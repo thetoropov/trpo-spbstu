@@ -1,0 +1,11 @@
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.Form1.resources
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.Form2.resources
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.Properties.Resources.resources
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.csproj.GenerateResource.cache
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\pz9\pz9\bin\Debug\pz9.exe.config
+C:\Users\thene\source\repos\pz9\pz9\bin\Debug\pz9.exe
+C:\Users\thene\source\repos\pz9\pz9\bin\Debug\pz9.pdb
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.exe
+C:\Users\thene\source\repos\pz9\pz9\obj\Debug\pz9.pdb
