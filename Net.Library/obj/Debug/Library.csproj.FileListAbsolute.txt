@@ -1,0 +1,12 @@
+C:\Users\thene\source\repos\pz10\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\thene\source\repos\pz10\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\thene\source\repos\pz10\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\thene\source\repos\pz10\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\thene\source\repos\pz10\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\thene\source\repos\pz10\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\thene\Desktop\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\thene\Desktop\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\thene\Desktop\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\thene\Desktop\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\thene\Desktop\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\thene\Desktop\Net.Library\obj\Debug\SomeProject.Library.pdb
